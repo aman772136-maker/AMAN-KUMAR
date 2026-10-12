@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aman Kumar
 
-### 💻 B.Tech CSE Student | Aspiring Developer | Cloud & AI Enthusiast
+### ### 💻 B.Tech CSE (AI & ML) Student | Aspiring Developer | AI & Cloud Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Exploring+AWS+and+Cloud;Learning+AI+and+Machine+Learning;Code.+Learn.+Build.+Repeat." alt="Typing animation" />
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science and Engineering student
+- 🎓 B.Tech in Computer Science Engineering, specializing in Artificial Intelligence & Machine Learning.
 - 💻 Learning software development and problem-solving
 - ☁️ Exploring AWS and cloud computing
 - 🤖 Interested in Artificial Intelligence and Machine Learning

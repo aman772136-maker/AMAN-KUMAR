@@ -1,24 +1,92 @@
-Hi, I'm Aman Kumar
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-kumar-625777277/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman772136@gmail.com) 
+# 👋 Hey, I'm Aman Kumar
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aman772136-maker&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aman772136-maker&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aman772136-maker&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### 💻 B.Tech CSE Student | Aspiring Software Developer | Cloud & AI Enthusiast
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aman772136-maker&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Reality;Exploring+Cloud+%26+AWS;Learning+AI+%26+Machine+Learning;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Aman%20Kumar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Learner%20%7C%20Innovator&descAlignY=55&descSize=18" width="100%" alt="Profile banner" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aman772136-maker&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 About Me
+
+- 🎓 B.Tech student in Computer Science and Engineering
+- 💡 Interested in software development, Artificial Intelligence, and Cloud Computing
+- ☁️ Exploring AWS and cloud technologies
+- 🧠 Learning Python, C, C++, and Java
+- 🛠️ Building projects to turn ideas into practical solutions
+- 🎯 Focused on continuous learning and problem-solving
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aman-kumar-625777277/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aman772136@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/aman772136-maker">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+## 🧰 Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="C, C++, Python and Java" />
+</p>
+
+### ☁️ Cloud, Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" alt="AWS, Git, GitHub and VS Code" />
+</p>
+
+### 🎨 Design & Digital Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Meta-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aman772136-maker&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman772136-maker&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aman772136-maker&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aman772136-maker&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies" />
+</p>
+
+## 💡 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random developer quote" />
+</p>
+
+## 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aman772136-maker&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aman772136-maker&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <b>⚡ Learn continuously. Build boldly. Make an impact.</b>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+</p>
